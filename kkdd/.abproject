@@ -1,0 +1,8 @@
+{
+  "ProjectName": "kkdd",
+  "ProjectGuid": "57e8d786-f2a1-46f6-a257-87ceb39d8687",
+  "projectVersion": 1,
+  "ProjectTypeGuids": "{da2f9169-4696-40a5-919b-f73985228cac}",
+  "FrameworkVersion": "0.0.1",
+  "Framework": "MobileWebsite"
+}
